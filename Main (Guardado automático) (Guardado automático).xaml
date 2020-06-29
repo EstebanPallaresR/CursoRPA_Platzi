@@ -103,7 +103,7 @@
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
                 <ui:NavigateTo Browser="{x:Null}" DisplayName="Ir a" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="NavigateTo_1" Url="platzi.com" />
-                <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Clic" sap:VirtualizedContainerService.HintSize="334,68" sap2010:WorkflowViewState.IdRef="Click_1" KeyModifiers="None" MouseButton="BTN_LEFT">
+                <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Clic 'Intermediate D3D Window'" sap:VirtualizedContainerService.HintSize="334,68" sap2010:WorkflowViewState.IdRef="Click_1" KeyModifiers="None" MouseButton="BTN_LEFT">
                   <ui:Click.CursorPosition>
                     <ui:CursorPosition Position="Center">
                       <ui:CursorPosition.OffsetX>
@@ -115,7 +115,7 @@
                     </ui:CursorPosition>
                   </ui:Click.CursorPosition>
                   <ui:Click.Target>
-                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" Id="6a93aeea-120d-42d0-a007-74bc753a20e1">
+                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="6a93aeea-120d-42d0-a007-74bc753a20e1" InformativeScreenshot="988eb012a954bfbfa3b233b01333f32f" Selector="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='??Platzi: ‎Cursos Online Profesionales de Tecnología - Google Ch*' /&gt;&lt;wnd cls='Intermediate D3D Window' /&gt;">
                       <ui:Target.TimeoutMS>
                         <InArgument x:TypeArguments="x:Int32" />
                       </ui:Target.TimeoutMS>
